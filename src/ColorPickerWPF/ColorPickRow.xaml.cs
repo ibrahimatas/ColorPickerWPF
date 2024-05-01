@@ -7,7 +7,7 @@ using UserControl = System.Windows.Controls.UserControl;
 namespace ColorPickerWPF
 {
     /// <summary>
-    /// Interaction logic for ColorPickRow.xaml
+    /// Interaction logic for ColorPickRow.xaml //netframefork4.7.2
     /// </summary>
     public partial class ColorPickRow : UserControl
     {
